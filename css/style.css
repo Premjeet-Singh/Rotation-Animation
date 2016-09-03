@@ -1,0 +1,36 @@
+body{
+	background: lightgray;
+}
+section{
+	padding: 14px;
+	margin: 13px auto;
+	width: 600px;
+	height: 600px;
+	background: lightgreen;
+	border:#666 2px solid;
+}
+	img{
+		padding: 50px;
+		margin: 50px 50px;
+		width: 380px;
+		height: 250px;
+	}
+
+	h2{
+		padding: 20px;
+		margin: 20px auto;
+		width: 400px;
+		height: 50px;
+		background-color: #aaccdd;
+		border: #543 2px solid;
+		text-align: center;
+	}
+
+	button{
+		width: 200px;
+		height: 30px;
+	}
+
+	#btn1{
+		margin-left: 35px;
+	}
